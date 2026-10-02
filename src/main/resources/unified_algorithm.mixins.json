@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.molu.unified_algorithm.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "SuppressExternalCritsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

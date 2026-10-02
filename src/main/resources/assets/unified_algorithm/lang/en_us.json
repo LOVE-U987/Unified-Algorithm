@@ -1,0 +1,8 @@
+{
+  "unified_algorithm.configuration.title": "Unified Algorithm Configs",
+  "unified_algorithm.configuration.section.unified_algorithm.common.toml": "Unified Algorithm Configs",
+  "unified_algorithm.configuration.section.unified_algorithm.common.toml.title": "Unified Algorithm Configs",
+  "unified_algorithm.configuration.bridgeEnabled": "Bridge Enabled",
+  "unified_algorithm.configuration.bridgeAttributes": "Bridged Attributes",
+  "unified_algorithm.configuration.suppressExternalPlayerCrits": "Suppress External Player Crits"
+}
