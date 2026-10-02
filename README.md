@@ -92,7 +92,7 @@ Critical Strike 用它自己的两个属性驱动暴击；神化等模组则把�
 
 ## 许可证
 
-All Rights Reserved（详见 `TEMPLATE_LICENSE.txt`）。
+[MIT](LICENSE)（Copyright (c) 2026 LOVE_U987；`TEMPLATE_LICENSE.txt` 为 NeoForged MDK 模板自身的许可，适用于模板来源文件）。
 
 ---
 
@@ -168,4 +168,4 @@ Requires JDK 21.
 
 ## License
 
-All Rights Reserved (see `TEMPLATE_LICENSE.txt`).
+[MIT](LICENSE) (Copyright (c) 2026 LOVE_U987; `TEMPLATE_LICENSE.txt` is the NeoForged MDK template's own license, applying to the template files).

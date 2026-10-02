@@ -1,4 +1,4 @@
-package com.molu.unified_algorithm;
+package com.unified_algorithm.unified_algorithm;
 
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;

@@ -1,4 +1,4 @@
-package com.molu.unified_algorithm.mixin;
+package com.unified_algorithm.unified_algorithm.mixin;
 
 import net.minecraft.world.entity.player.Player;
 import net.neoforged.fml.ModList;
@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-import com.molu.unified_algorithm.Config;
+import com.unified_algorithm.unified_algorithm.Config;
 
 /**
  * 反双暴击 mixin。

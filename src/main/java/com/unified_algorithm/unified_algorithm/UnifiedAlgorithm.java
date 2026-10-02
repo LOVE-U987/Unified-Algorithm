@@ -1,4 +1,4 @@
-package com.molu.unified_algorithm;
+package com.unified_algorithm.unified_algorithm;
 
 import org.slf4j.Logger;
 

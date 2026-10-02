@@ -18,11 +18,12 @@
 - **依赖**：新增 `apothic-attributes 1.21.1-2.11.0`、`tiny-config 3.1.0-neoforge`（compileOnly）
 - **NeoForge 21.1.219 → 21.1.252**（初版升至 21.1.235 满足 Apotheosis 8.9.0 硬性要求，后按新环境迁移至 21.1.252）
 - **文档**：README.md 重写为中英双语模组介绍；新增 PUBLISHING.md（Modrinth Markdown + CurseForge BBCode 发布页描述）
+- **许可证**：All Rights Reserved → MIT（新增 LICENSE 文件，版权人 LOVE_U987，2026；TEMPLATE_LICENSE.txt 保留为模板来源许可）
 - `gradlew build` 验证通过
 
 ### 环境配置
 
-- 模组标识：`examplemod` → `unified_algorithm`，显示名 `Unified Algorithm`，包名 `com.molu.unified_algorithm`
+- 模组标识：`examplemod` → `unified_algorithm`，显示名 `Unified Algorithm`，包名 `com.unified_algorithm.unified_algorithm`（初版为 com.molu.unified_algorithm，后按用户要求调整）
 - 添加 Modrinth Maven 仓库，接入 Critical Strike / Apotheosis / Placebo / Apothic Attributes / TinyConfig
 - `neoforge.mods.toml`：描述更新，`critical_strike` / `apotheosis` / `apothic_attributes` 可选依赖（ordering=AFTER）+ mixins 声明
 - 包结构重命名，移除模板示例内容，更新语言文件
