@@ -1,6 +1,6 @@
 # Changelog - Unified Algorithm
 
-## v1.0.0 (2026-10-02，未发布)
+## v1.0.0 
 
 ### 暴击兼容实现（路线 B：Critical Strike 接受标准属性系统加成）
 
